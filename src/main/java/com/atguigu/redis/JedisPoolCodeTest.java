@@ -27,3 +27,4 @@ public class JedisPoolCodeTest {
         jedisPool.close();
     }
 }
+//feature-good 分支
